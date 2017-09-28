@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Support_Dispositifs</string>
+
+    <string name="hello">Bonjour le Monde!</string>
+
+    <string name="parraf">La démonstration rapide d’un langage de programmation ou le test d’un compilateur</string>
+
+</resources>

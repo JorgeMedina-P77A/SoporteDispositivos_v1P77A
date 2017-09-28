@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Soporte_Dispositivos</string>
+
+    <string name="hello">Hola Mundo!</string>
+
+    <string name="parraf">Este programa suele ser usado como introducción al estudio de un lenguaje de programación</string>
+
+</resources>
